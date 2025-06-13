@@ -18,7 +18,7 @@ const About = () => {
                 <div className="relative">
                   <div className="w-48 h-56 md:w-64 md:h-72 lg:w-72 lg:h-80 rounded-2xl bg-gray-200 dark:bg-gray-700 flex items-center justify-center text-6xl overflow-hidden">
                     <img 
-                      src="/src/assets/profile.png"
+                      src="/profile.png"
                       alt="Eugene Tye" 
                       className="w-full h-full object-cover rounded-2xl"
                       onError={(e) => {
